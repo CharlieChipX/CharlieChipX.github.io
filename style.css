@@ -1,13 +1,9 @@
-body
+html
 {
     background-color: #272A61;
 }
-.p1
-{
-    font-size: medium;
-    font-family: "Komika-Hand";
-}
-body A
+
+body
 {
     width: 600px;
     margin: 0 auto;
