@@ -2,6 +2,7 @@
 .topnav {
     background-color: #333;
     overflow: hidden;
+    width: 100%;
   }
   
   /* Style the links inside the navigation bar */
@@ -56,7 +57,8 @@
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("triangles-1430105_960_720.png");
 
   /* Set a specific height */
-  height: 65%;
+  height: 50%;
+  width: 100%;
 
   /* Position and center the image to scale nicely on all screens */
   background-position: center;
