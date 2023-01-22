@@ -29,6 +29,7 @@ h1 {
     overflow: hidden;
     background-color: #333;
     width: max-content;
+    display: inline;
   }
   
   /* Style the topnav links */
