@@ -36,6 +36,15 @@
     text-decoration: none;
     font-size: 17px;
 }
+  /* Style the links inside the navigation bar */
+  .hero-text a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
   
   body, html {
     height: 100%;
