@@ -5,7 +5,7 @@ html
 
 body
 {
-    width: 100%;
+    width: 0vmax;
     height: 400px;
     margin: 0 auto;
     background-color: #546bb1;
